@@ -27,8 +27,8 @@ function Footer() {
             </footer>
 
             {/* whatsapp */}
-            <div className="w-[2.5em] sm:w-[6em] fixed right-[1em] bottom-[1em]">
-                <a target="_blank" href="https://wa.me/5491126970953?text=Hola,%20somos%20Master%20Bakery,%20d%C3%A9janos%20tu%20mensaje%20y%20nos%20comunicamos%20a%20la%20brevedad."><img src="./images/iconos/whatsapp.png" alt="icono wp" /></a>
+            <div className="w-[2.5em] sm:w-[4em] xl:w-[6em] fixed right-[1em] bottom-[1em]">
+                <a target="_blank" href="https://wa.me/5491126970953?"><img src="./images/iconos/whatsapp.png" alt="icono wp" /></a>
             </div>
         </>
     )
