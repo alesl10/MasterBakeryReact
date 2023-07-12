@@ -30,25 +30,25 @@ function Productos() {
                     <Carousel responsive={responsive}>
                         <div className=' flex flex-col justify-center items-center text-white text-xl font-medium'>
                             <h4>Titulo producto</h4>
-                            <img src="../../../public/images/productos/Muffins de vainilla.jpg" className=' w-[20rem]' alt="" />
+                            <img src="../../../public/images/productos/Muffins chocolate.jpg" className=' w-[20rem]' alt="imagen producto" />
                             <p>Descripcion producto</p>
                             <p>Stock permanente</p>
                         </div>
                         <div className=' flex flex-col justify-center items-center text-white text-xl font-medium'>
                             <h4>Titulo producto</h4>
-                            <img src="../../../public/images/productos/Muffins de vainilla.jpg" className=' w-[20rem]' alt="" />
+                            <img src="../../../public/images/productos/Pan de queso.jpg" className=' w-[20rem]' alt="imagen producto" />
                             <p>Descripcion producto</p>
                             <p>Stock permanente</p>
                         </div>
                         <div className=' flex flex-col justify-center items-center text-white text-xl font-medium'>
                             <h4>Titulo producto</h4>
-                            <img src="../../../public/images/productos/Muffins de vainilla.jpg" className=' w-[20rem]' alt="" />
+                            <img src="../../../public/images/productos/Polvo para Hornear.jpg" className=' w-[20rem]' alt="imagen producto" />
                             <p>Descripcion producto</p>
                             <p>Stock permanente</p>
                         </div>
                         <div className=' flex flex-col justify-center items-center text-white text-xl font-medium'>
                             <h4>Titulo producto</h4>
-                            <img src="../../../public/images/productos/Muffins de vainilla.jpg" className=' w-[20rem]' alt="" />
+                            <img src="../../../public/images/productos/Muffins de vainilla.jpg" className=' w-[20rem]' alt="imagen producto" />
                             <p>Descripcion producto</p>
                             <p>Stock permanente</p>
                         </div>
