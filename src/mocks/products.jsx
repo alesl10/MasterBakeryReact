@@ -3,9 +3,9 @@ export default [
         "nombre": "dulce de leche",
         "cantidad": 10,
         "medida": "kg",
-        image1: '../../public/fotos/dulce1.jpg',
-        image2: '../../public/fotos/dulce2.jpg',
-        image4: '../../public/fotos/dulce3.jpg',
+        image1: '../../public/images/dulce1.jpg',
+        image2: '../../public/images/dulce2.jpg',
+        image4: '../../public/images/dulce3.jpg',
         "categoria": "dulces y jaleas",
         descatado: true
 
@@ -14,10 +14,10 @@ export default [
         "nombre": "dulce de leche",
         "cantidad": 10,
         "medida": "kg",
-        image1: '../../public/fotos/dulce1.jpg',
-        image2: '../../public/fotos/dulce2.jpg',
-        image3: '../../public/fotos/dulce3.jpg',
-        image4: '../../public/fotos/dulce5.jpg',
+        image1: '../../public/images/dulce1.jpg',
+        image2: '../../public/images/dulce2.jpg',
+        image3: '../../public/images/dulce3.jpg',
+        image4: '../../public/images/dulce5.jpg',
         "categoria": "dulces y jaleas",
         descatado: true
 
@@ -26,8 +26,8 @@ export default [
         "nombre": "dulce de leche",
         "cantidad": 10,
         "medida": "kg",
-        image1: '../../public/fotos/dulce1.jpg',
-        image4: '../../public/fotos/dulce2.jpg',
+        image1: '../../public/images/dulce1.jpg',
+        image4: '../../public/images/dulce2.jpg',
         "categoria": "dulces y jaleas",
         descatado: true
 
@@ -37,8 +37,8 @@ export default [
         "cantidad": 5,
         "medida": "kg",
         "categoria": "azucares",
-        image3: '../../public/fotos/merme1.jpg',
-        image4: '../../public/fotos/merm2.jpg',
+        image3: '../../public/images/merme1.jpg',
+        image4: '../../public/images/merm2.jpg',
         "descatado": true
 
     },
@@ -398,8 +398,8 @@ export default [
         "cantidad": 10,
         "medida": "kg",
         "categoria": "otros",
-        image3: '../../public/fotos/jalea3.jpg',
-        image4: '../../public/fotos/jalea1.jpg',
+        image3: '../../public/images/jalea3.jpg',
+        image4: '../../public/images/jalea1.jpg',
         "descatado": true
     },
     {

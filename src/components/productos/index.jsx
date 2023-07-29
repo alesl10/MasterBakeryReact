@@ -47,7 +47,7 @@ function Productos({ products }) {
 
                     </Carousel>
                 </div>
-                    <Link className='flex justify-center' to={'/products'}><button className=" bg-orange-300 border-4 border-solid text-[1.3rem] text-white font-medium rounded p-2"> Ver mas </button></Link>
+                    <Link className='flex justify-center' to={'/products'} href='#'><button className=" bg-orange-300 border-4 border-solid text-[1.3rem] text-white font-medium rounded p-2"> Ver mas </button></Link>
 
 
             </section >
