@@ -2,7 +2,7 @@ function Footer() {
 
     return (
         <>
-            <footer className="h-[10em] mt-10 sm:mt-0 bg-orange-300 flex flex-col text-white items-center justify-between">
+            <footer className="h-[10em] mt-10 sm:mt-0 bg-orange-300 flex flex-col text-white items-center justify-between ">
                 <div className="text-center">
                     <h1 className="text-xl sm:text-5xl text-center font-semibold">Master Bakery</h1>
                 </div>

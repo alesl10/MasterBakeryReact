@@ -1,5 +1,5 @@
 
-function Home() {
+function Inicio() {
 
   return (
     <>
@@ -24,4 +24,4 @@ function Home() {
   )
 }
 
-export default Home
+export default Inicio

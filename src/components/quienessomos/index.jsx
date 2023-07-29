@@ -15,7 +15,7 @@ function QuienesSomos() {
                             <p className=" right-0 inline-block sm:text-4xl">
                                 Somos una empresa con 15 años de experiencia, especializados en la distribucion de productos
                                 alimenticios y
-                                abasteciendo al rubro gastronomico, pastelero y heladero en todo el pais, con insumos de primera
+                                abasteciendo al rubro gastronomico y pastelero en todo el pais, con insumos de primera
                                 calidad.
                             </p>
                         </div>
