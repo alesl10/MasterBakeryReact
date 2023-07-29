@@ -34,16 +34,16 @@ function Header() {
                 <nav>
                     <ul className="flex gap-4">
                         <li className=" text-white text-xl hover:text-gray-800 font-bold hover:opacity-70 transition ">
-                            <Link to={'/'} className="p-2" href="#Inicio">Inicio</Link>
+                            <a className="p-2" href="#Inicio">Inicio</a>
                         </li>
                         <li className=" text-white text-xl hover:text-gray-800 font-bold hover:opacity-70 transition ">
-                            <Link to={'/'} className="p-2" href="#quienesSomos">¿Quienes somos?</Link>
+                            <a className="p-2" href="#quienesSomos">¿Quienes somos?</a>
                         </li>
                         <li className=" text-white text-xl hover:text-gray-800 font-bold hover:opacity-70 transition ">
-                            <Link to={'/'} className="p-2" href="#productos">Productos</Link>
+                            <a className="p-2" href="#productos">Productos</a>
                         </li>
                         <li className=" text-white text-xl hover:text-gray-800 font-bold hover:opacity-70 transition ">
-                            <Link to={'/'} className="p-2" href="#contacto">Contacto</Link>
+                            <a className="p-2" href="#contacto">Contacto</a>
                         </li>
                     </ul>
                 </nav>
