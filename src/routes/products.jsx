@@ -17,7 +17,7 @@ function Products() {
 
 
   const filterCategoriy = (category) => {
-    if (category == 'all') {
+    if (category == 'Todos') {
       setProductos(products)
       return
     }

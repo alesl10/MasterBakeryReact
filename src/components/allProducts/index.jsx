@@ -2,7 +2,7 @@
 function AllProducts({ productos }) {
 
     return (
-        <div className=" flex-grow bg-orange-400/50">
+        <div className=" flex-grow bg-orange-400/50 ">
             <ul className="flex flex-col p-5 ">
                 {productos.map(product => (
                     <li className="flex text-xl h-[2em] border-solid border-y items-center justify-between text-white" key={product.index}>
